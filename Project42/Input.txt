@@ -1,0 +1,12 @@
+rnbqkbnr
+pppppppp
+--------
+--------
+--------
+--------
+PPPPPPPP
+RNBQKBNR
+300
+300
+0
+0
