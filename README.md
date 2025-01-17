@@ -116,6 +116,3 @@ For a detailed demonstration of the Chess-SFML game, watch the video below:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
